@@ -1,5 +1,10 @@
 # Crypto Genius
+## Overview
 
+Crypto Genius is a React + MUI crypto dashboard powered by the public CoinGecko API.
+
+Live Preview:  
+[https://crypto-genius.netlify.app/](https://crypto-genius.netlify.app/)
 ---
 
 ## Table of Contents
@@ -20,10 +25,6 @@
 ## Project Description
 
 **Crypto Genius** is a modern, responsive ReactJS web application that displays real-time cryptocurrency data using the CoinGecko API. The platform enables users to browse coins, view detailed information, and navigate seamlessly with a focus on usability and performance.
-
-**Live Preview:**  
-[https://crypto-genius.netlify.app/](https://crypto-genius.netlify.app/)
-
 ---
 
 ## Features
